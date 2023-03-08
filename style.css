@@ -225,7 +225,7 @@ h3 {
 
 .guitar1 {
     position: relative;
-    z-index: 7;
+    z-index: 8;
     top: -1626px;
     left: 1000px;
     transform: scale(0.45);
